@@ -1,3 +1,7 @@
+---
+description: Welcome!
+---
+
 # ☺️ Welcome to PyTermOS Docs!
 
 ### Where am I?
