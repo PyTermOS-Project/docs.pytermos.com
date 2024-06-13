@@ -1,5 +1,5 @@
 ---
-description: Way how to make a fast installation.
+description: A way how to install PyTermOS 🥳
 ---
 
 # 🤪 Installation
