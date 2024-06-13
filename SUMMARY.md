@@ -6,8 +6,8 @@
 
 * [🧐 What's even PyTermOS?](start/whatis.md)
 * [😅 Requirements](start/requirements.md)
-* [🏃‍♂️ Fast Installation](start/fast.md)
+* [🤪 Installation](start/fast.md)
 
-## Group 1
+## 😤 Troubleshooting
 
-* [Page 1](group-1/page-1.md)
+* [☹️ Errors and fixes](troubleshooting/errors-and-fixes.md)
